@@ -1,8 +1,8 @@
 Hi, I’m **Trishala Thakur**, a **Data Scientist** currently working on predicting drought events using satellite data.
 
-🔭 Seeking **full-time roles** and **co-op opportunities**
+🔭 Seeking **full-time data roles** and **research opportunities** 
 
-📫 Reach me at [email](trishala.thakur@colorado.edu)
+📫 Reach me at [email](trrshla@gmail.com)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=trishthakur)
 
