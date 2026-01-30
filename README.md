@@ -1,8 +1,10 @@
 Hi, I’m **Trishala Thakur**,
 
-I am a Data Scientist with 3 years of experience building machine learning models and AI systems that drive impact for a wide range of stakeholders. My work spans deep learning, research automation, and scalable ML applications, helping organizations and researchers make faster, smarter decisions.
+I am a Data Scientist with ~ 4 years of experience building machine learning models and AI systems that drive impact for a wide range of stakeholders. My work spans deep learning, research automation, and scalable ML applications, helping organizations and researchers make faster, smarter decisions.
 
-I am passionate about solving problems with AI and excited to collaborate in ambitious, high-performing teams. I thrive on discussing ideas, tackling challenges at scale.
+I build machine learning systems that turn complex data into production-ready solutions, driving measurable impact in research automation, operational reliability, and predictive analytics.
+
+In my current role, I develop AI pipelines processing 1TB+ of image and text data. I built a multi-agent system to automate face–name matching, leveraged LLMs to extract structured insights from scientific literature, and trained CNNs for fine-grained classification, enabling researchers to analyze massive datasets efficiently.
 
 A snapshot of the tools and techniques I work with regularly
 
