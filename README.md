@@ -120,12 +120,16 @@ Cloud platform with Streamlit UI for real-time model tuning on GPU VMs. Models d
 - Designed Siamese CNN architecture on satellite data for regional drought forecasting
 - Identified drought signals by linking anomalies in monthly averages to observed events
 
+**Graduate Student Assistant @ CIRES** *(Jan 2024 - April 2024)*  
+- Trained four XGBoost models on DistilBERT embeddings, achieving up to 78% F1 across climate change text classification tasks 
+- Deployed models as Flask RESTful API integrated in Label Studio, automating annotation and saving 2 hours/week in manual effort
+
 ## Impact
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  12K+ review hours saved     │  1TB+ data processed         │
-│  6 industrial assets          │  1.2M papers analyzed        │
-│  100+ researchers enabled     │  10+ engineers using my ML   │
+│  6 industrial assets         │  1.2M papers analyzed        │
+│  100+ researchers enabled    │  10+ engineers using my ML   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
