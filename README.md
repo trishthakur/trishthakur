@@ -63,7 +63,7 @@ Machine Learning Data Scientist @MiiE Lab, University of Chicago
 
 </div>
 
-## Selected Projects
+## Projects
 
 <table>
 <tr>
@@ -72,7 +72,7 @@ Machine Learning Data Scientist @MiiE Lab, University of Chicago
 ### [Multi-Agent E-Commerce Bot](https://github.com/trishthakur/ecommerce-chatbot)
 Architected 3-agent system with DeepSeek-V3 for product search and support. Built hybrid retrieval tools with semantic search, end-to-end LLM-database integration, and Streamlit UI.
 
-**Stack:** DeepSeek-V3, Semantic Search, Streamlit
+**Stack:** AI Agents, Agent Orchestration, DeepSeek-V3, Semantic Search, Streamlit
 
 </td>
 <td width="50%">
