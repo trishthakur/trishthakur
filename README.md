@@ -90,7 +90,7 @@ Multimodal search application using CLIP-ViT-B/32 for embedding-based similarity
 ### [Mock Interview Agent](https://github.com/trishthakur/Mock-Interview-Agent)
 RAG-based system generating role-specific questions from curated job descriptions. Chain-of-Thought prompting evaluates responses and delivers personalized feedback.
 
-**Stack:** RAG, Chain-of-Thought, LLMs
+**Stack:** RAG, Chain-of-Thought, LLMs, Streamlit
 
 </td>
 <td width="50%">
