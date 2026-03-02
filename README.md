@@ -31,7 +31,7 @@ Machine Learning Data Scientist @MiiE Lab, University of Chicago
 * Automating face-name matching with orchestrated LLM workflows
 * Extracting structured insights from 1.2M research papers
 * Designing CNNs for document layout classification
-* AI agents | PyTorch | HuggingFace | GCP | Python | SQL | MMLLM | CV
+* AI agents | PyTorch | HuggingFace | GCP | Python | SQL | LLM | LMM | CV
 
 ## Tech Stack
 
