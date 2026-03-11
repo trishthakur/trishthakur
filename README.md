@@ -1,4 +1,4 @@
-# Hi, I'm Trishala Thakur!
+# Hi, I'm Trishala Thakur
 
 <div align="center">
   
