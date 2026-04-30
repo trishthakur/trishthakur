@@ -145,6 +145,6 @@ Cloud platform with Streamlit UI for real-time model tuning on GPU VMs. Models d
 
 <div align="center">
 
-**Chicago, IL** • Open to relocation • [trrshla@gmail.com](mailto:trrshla@gmail.com)
+**Seattle, WA** • [trrshla@gmail.com](mailto:trrshla@gmail.com)
 
 </div>
